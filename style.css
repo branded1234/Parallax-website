@@ -9,19 +9,19 @@ body{
 
 }
 .pimg-1{
-    background-image: url(Images/image1.png); 
+    background-image: url(image1.png); 
     min-height: 40rem;
 }
 .pimg-2{
-    background-image: url(Images/image2.png);
+    background-image: url(image2.png);
     min-height: 40rem;
 }
 .pimg-3{
-    background-image: url(Images/image3.png);
+    background-image: url(image3.png);
     min-height: 40rem;
 }
 .pimg-4{
-    background-image: url(Images/image1.png);
+    background-image: url(image1.png);
     min-height: 40rem;
 }
 .pimg-1, .pimg-2 , .pimg-3 ,.pimg-4 {
